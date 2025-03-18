@@ -17,6 +17,5 @@
     "express": "^4.21.2",
     "mongoose": "^8.12.1",
     "path": "^0.12.7"
-  },
-  "proxy": "https://bicycle-stand-locker-backend-phm9.onrender.com"
+  }
 }
